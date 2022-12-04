@@ -43,8 +43,8 @@
 Ниже найдете список ссылок для связки c автором.
 
 Платформа | Ссылка                             | Отвечу за |
-----------------------------------------------------------
-Почта     |[Ссылка](https://mail.ru)           | 24 часа   |
-Linkdein  |[Ссылка](https://linkedin.com)      | 3 часа    |
-WhatsApp  |[Ссылка](https://web.whatsapp.com)  | 30 минут  |
-Telegram  |[ссылка](https://web.telegram.org/) | 5 минут   |
+----------|------------------------------------|-----------|
+Почта     |[Ссылка](https://mail.ru)| 24 часа |
+Linkdein  |[Ссылка](https://linkedin.com)| 3 часа |
+WhatsApp  |[Ссылка](https://web.whatsapp.com)| 30 минут |
+Telegram  |[ссылка](https://web.telegram.org/)| 5 минут |
