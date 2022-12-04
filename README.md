@@ -10,17 +10,18 @@
 
 
 ## Запуск
-> bash ./script.sh
-
+```
+ bash ./script.sh
+```
 
 ## Портирование
 Данный проект можно портировать на другие языки програмирования
 
 На Java
 ``` 
-<span style="color: red;">class</span> Main {
-<span style="color: red;">public static</span> void <span style="color: purple;">main</span>(String[] args) {
-		System.out. <span style="color: purple;">println</span>("777");
+	class Main {
+	public static void (String[] args) {
+		System.out.println("777");
 	}
 }
 ```
@@ -42,7 +43,11 @@
 Ниже найдете список ссылок для связки c автором.
 
 Платформа | Ссылка                       | Отвечу за
+----------------------------------------------------
 Почта     |[Ссылка](https://mail.ru)     | 24 часа
+----------------------------------------------------
 Linkdein  |[Ссылка](ttps://linkedin.com) |3 часа
+----------------------------------------------------
 WhatsApp  |[Ссылка](https://whatsap.web) |30 минут
+----------------------------------------------------
 Telegram  |[ссылка](https://telegra,.web)|5 минут
