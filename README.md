@@ -1,7 +1,7 @@
 # stepik-id-printer 
 Это проект для вывода моего персонального идентификатора на образовательной платформе <<stepik.org>>.
 
-()[https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/]
+![](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
 
 ## Возможности
 Данный проект имеет следующий функционал.
@@ -21,7 +21,7 @@
 Данный проект можно портировать на другие языки програмирования
 
 На Java
-``` 
+``` Java
 	class Main {
 	public static void (String[] args) {
 		System.out.println("777");
@@ -30,7 +30,7 @@
 ```
 
 На С++
-``` 
+``` C++
  #include <iostream>
 
     using namespace std;
